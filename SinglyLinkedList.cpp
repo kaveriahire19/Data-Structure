@@ -13,7 +13,7 @@ class Node
             next=NULL;
         }
 };
-class LinkedList
+class SinglyLinkedList
 {
     Node *head;
     public:
